@@ -4,7 +4,7 @@ import { google, slack, atlassian, dropbox, shopify} from './import'
 
 const Brand = () => {
   return    (
-    <div className='gpt4__brand section__paddding'>
+    <div className='gpt4__brand section__padding'>
       <div>
         <img src={google} alt="google" />
       </div>
