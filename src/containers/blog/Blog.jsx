@@ -12,13 +12,13 @@ const Blog = () => {
       </div>
       <div className='gpt4__blog-container'>
         <div className='gpt4__blog-container_groupA'>
-          <Article imgUrl={blog01} date='Sep 26, 2021' text='GPT-3 and Open  AI is the future. Let us exlore how it is?' />
+          <Article imgUrl={blog01} date='April 18, 2024' text='GPT-4 and Open  AI is the future. Let us exlore how it is?' />
         </div>
         <div className='gpt4__blog-container_groupB'>
-          <Article imgUrl={blog02} date='Sep 26, 2021' text='GPT-3 and Open  AI is the future. Let us exlore how it is?' />
-          <Article imgUrl={blog03} date='Sep 26, 2021' text='GPT-3 and Open  AI is the future. Let us exlore how it is?' />
-          <Article imgUrl={blog04} date='Sep 26, 2021' text='GPT-3 and Open  AI is the future. Let us exlore how it is?' />
-          <Article imgUrl={blog05} date='Sep 26, 2021' text='GPT-3 and Open  AI is the future. Let us exlore how it is?' />
+          <Article imgUrl={blog02} date='April 18, 2024' text='GPT-4 and Open  AI is the future. Let us exlore how it is?' />
+          <Article imgUrl={blog03} date='April 18, 2024' text='GPT-4 and Open  AI is the future. Let us exlore how it is?' />
+          <Article imgUrl={blog04} date='April 18, 2024' text='GPT-4 and Open  AI is the future. Let us exlore how it is?' />
+          <Article imgUrl={blog05} date='April 18, 2024' text='GPT-4 and Open  AI is the future. Let us exlore how it is?' />
         </div>
       </div>
     </div>
