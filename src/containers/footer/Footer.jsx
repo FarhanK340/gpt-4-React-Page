@@ -1,6 +1,6 @@
 import React from 'react';
 import './footer.css';
-import gpt4logo from '../../assets/logo.svg'
+import gpt4logo from '../../assets/logo2.svg'
 const Footer = () => {
   return (
     <div className='gpt4__footer section__padding'>
